@@ -1,5 +1,5 @@
-it just a word.exe
-        word.exe:
-            - cs2:
-                folder: 
-                    aim lab.exe
+it just a word.exe bro
+       -> word.exe:
+            -> cs2:
+              ->  folder: 
+                ->    aim lab.exe
