@@ -1,1 +1,1 @@
-print("You're gay")
+print("Error 404")
